@@ -22,12 +22,12 @@ This script automates the process of fixing these issues by reimporting the corr
 
    - **Using `curl`**:
      ```bash
-     curl -O https://github.com/Sajibekanti/fix-gpg-keys/raw/main/fix-gpg-keys.sh
+     curl -O https://raw.githubusercontent.com/Sajibekanti/fix-gpg-keys/main/fix-gpg-keys.sh
      ```
 
    - **Using `wget`**:
      ```bash
-     wget https://github.com/Sajibekanti/fix-gpg-keys/raw/main/fix-gpg-keys.sh
+     wget https://raw.githubusercontent.com/Sajibekanti/fix-gpg-keys/main/fix-gpg-keys.sh
      ```
 
 2. **Make the Script Executable**
